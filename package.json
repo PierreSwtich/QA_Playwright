@@ -1,0 +1,21 @@
+{
+  "name": "playwright1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreSwtich/QA_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierreSwtich/QA_Playwright/issues"
+  },
+  "homepage": "https://github.com/PierreSwtich/QA_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.1"
+  }
+}
